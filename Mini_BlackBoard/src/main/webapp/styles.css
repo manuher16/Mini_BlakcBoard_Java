@@ -7,6 +7,12 @@
 
   
 }
+.link{
+    color: blue;
+    font-family:blue ;
+    position: relative;
+    top: 55px;
+}
 .menu{
     position:fixed;
     justify-content:center;
